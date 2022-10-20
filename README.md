@@ -1,4 +1,4 @@
 # Ovarian-Cancer-Detection-using-Decision-Trees
 
-### Take a look at ProjectTeal_Presentation.pdf and ProjectTeal_Report.pdf
-### The script is in decision trees-final notebook.ipynb
+Take a look at <b>ProjectTeal_Presentation.pdf</b> and <b>ProjectTeal_Report.pdf</b>
+The script is in <b>decision trees-final notebook.ipynb</b>
